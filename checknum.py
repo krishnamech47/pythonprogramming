@@ -1,7 +1,7 @@
 i=eval(input("enter the number:")
 if(i<0):
- print("NEGATIVE")
+ print("Negative")
 elif(i>0):
- print("POSITIVE")
+ print("Positive")
 else :
- print("ZERO")
+ print("Zero")
