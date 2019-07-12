@@ -1,7 +1,4 @@
-i,j,k=input().split()
-i=int(i)
-j=int(j)
-k=int(k)
+i,j,k=int(input().split())
 if i>=j and i>=k :
  print(i)
 elif j>=k :
