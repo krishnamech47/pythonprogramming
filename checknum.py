@@ -1,4 +1,4 @@
-i=eval(input("enter the number:")
+i=input()
 if(i<0):
  print("Negative")
 elif(i>0):
