@@ -9,5 +9,5 @@ while n>0 :
 if r==temp :
  print("yes")
 else :
- print("no')
+ print("no")
  
