@@ -1,4 +1,4 @@
-n=int(input()
+n=int(input())
 temp=n
 r=0
 d=0
