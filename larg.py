@@ -1,6 +1,4 @@
-i =int(input())
-j=int(input())
-k=int(input())
+i,j,k=map(int,input().split())
 if i>j and i>k :
  print(i)
 elif j>k :
