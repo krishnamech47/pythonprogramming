@@ -1,3 +1,3 @@
-s=input()
-s=s[::-1]
-print(s)
+st=input()
+st=st[::-1]
+print(st)
