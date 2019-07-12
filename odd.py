@@ -1,8 +1,8 @@
 i=int(input())
-if(i<0):
- print("invalid")
-elif if(i%2==0):
+if(i%2==0):
  print("Even")
-else :
+elif(i%2!=0):
  print("Odd")
+else :
+ print("invalid")
  
