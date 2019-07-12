@@ -4,4 +4,3 @@ for k in range(i+1,j):
   print(k,end=' ')
  else :
   continue
-
