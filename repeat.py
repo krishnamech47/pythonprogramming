@@ -4,8 +4,9 @@ b=0
 c=[]
 for i in range(0,len(a)):
     for j in range(i+1,len(a)):
-        if(a[i]==a[j]):
+        if((a[i]==a[j]) and (a[i] not in c)):
             c.append(a[i])
             b=b+1 
 for k in range(0,len(c)):
-    print(c[k],end=" ")
+        print(c[k],end=" ")
+    
