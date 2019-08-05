@@ -1,2 +1,2 @@
-n,m=map(str,input().split())
-print(n+m)
+ne1,ne2=map(str,input().split())
+print(ne1+ne2)
