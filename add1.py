@@ -1,2 +1,3 @@
-num3=int(input())
-print(num3+1)
+machii=int(input())
+machii1=machii+1
+print(machii1)
